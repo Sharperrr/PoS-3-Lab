@@ -1,0 +1,11 @@
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\Dapper.dll
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\Dapper.xml
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Studying\5 semestras\Projektavimas\3lab\3labdarbas\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
